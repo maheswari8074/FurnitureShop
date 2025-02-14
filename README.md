@@ -20,8 +20,9 @@ Welcome to **Furniture Shop** – a modern and stylish furniture website built u
    ```sh
    git clone https://github.com/maheswari8074/furnitureshop.git
    cd furnitureshop
-2. Open `index.html` in your favorite browser 🌐   
-🔮 Future Enhancements
+2. Open `index.html` in your favorite browser 🌐
+ 
+## 🔮 Future Enhancements
 🛒 Shopping Cart Functionality
 🔐 User Authentication
 🗄️ Backend Integration with Database   
